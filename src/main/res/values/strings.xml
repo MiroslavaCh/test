@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="startU">
+        Вы идете по улице, и вдруг на проезжую
+        часть прямо с неба опускается летающий
+        объект. Ответьте на следующие вопросы:
+    </string>
+    <string name="why">Почему ЭТО приземлилось?\n (Запомните ваш ответ)</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="Plane">Самолёт</string>
+    <string name="UFO">НЛО</string>
+    <string name="ballon">Воздушный шар</string>
+    <string name="ball">Мяч</string>
+    <string name="time">На сколько вы там\n задержитесь?</string>
+    <string name="this1">Что это?</string>
+    <string name="quickly">Унесусь со скоростью ветра</string>
+    <string name="little">Задержусь не на долго</string>
+    <string name="long1">Застряну на несколько часов</string>
+    <string name="ok">ok</string>
+    <string name="died">Есть ли жертвы?</string>
+    <string name="ufo">НЛО</string>
+</resources>
